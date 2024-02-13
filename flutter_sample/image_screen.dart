@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+<<<<<<< HEAD
 class Demo extends StatelessWidget {
   const Demo({super.key});
 
@@ -12,4 +13,6 @@ class Demo extends StatelessWidget {
     );
   }
 }
+=======
+>>>>>>> fb6a61e93009aad868ffa158137829ee0b11bfb9
 
